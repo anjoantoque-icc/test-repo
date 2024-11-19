@@ -11,8 +11,10 @@ namespace QPal
                 new QPalInfo { Name = "James Thor", Department = "DEV"},
                 new QPalInfo { Name = "Charles Daitol", Department = "QA"},
                 new QPalInfo { Name = "John Vince Azares", Department = "DEV"},
+                new QPalInfo { Name = "Bien", Department = "DEV"},
                 new QPalInfo { Name = "BILOY", Department = "DEV"},
                 new QPalInfo { Name = "Charlie", Department = "DEV"},
+                new QPalInfo { Name = "Lord Lendon", Department = "DEV"},
                 new QPalInfo { Name = "Vinceji", Department = "BAD"},
             };
             Console.WriteLine("Welcome to QPAL, where asking questions is good, but asking the right person is AWESOME.");  
