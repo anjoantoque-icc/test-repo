@@ -13,6 +13,8 @@ namespace QPal
                 new QPalInfo { Name = "John Vince Azares", Department = "DEV"},
                 new QPalInfo { Name = "Bien", Department = "DEV"},
                 new QPalInfo { Name = "BILOY", Department = "DEV"},
+                new QPalInfo { Name = "Charlie", Department = "DEV"},
+                new QPalInfo { Name = "Charloy", Department = "DEV"},
                 new QPalInfo { Name = "Lord Lendon", Department = "DEV"},
                 new QPalInfo { Name = "Vinceji", Department = "BAD"},
             };
